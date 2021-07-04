@@ -1,0 +1,5 @@
+Variables: es una palabra, letra o numero,que usamos para referirnos a algo que luego va a ser estudiado, var = nombres
+Strings: son palabras van entre "" o '' cualquier letra o palabra que pongamos entre estas, es um string.
+Funciones (argumentos, return): es una forma de anunciar que vamos a realizar varias operaciones. function nombrefuncion(){} dentro de los corchetes van los argumentos, que serian la forma de comunicar que queremos hacer. por ultimo con el comando return decimos que se nos devuelva el resultado de la funcion.
+Declaraciones if: es una forma de preguntar para obtener una respuesta binaria. si o no, blanco o negro, alto o bajo.
+Valores booleanos (true, false): son los datos que siguen la logica de boole. donde la respuesta es entre dos opciones. if (edad < 21) return true else if return false
