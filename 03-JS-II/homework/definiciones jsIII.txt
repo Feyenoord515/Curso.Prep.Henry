@@ -1,0 +1,13 @@
+Defeniciones.
+
+bucles for: como su nombre lo indica, el bucle repite una operacion hasta dar con las pautas previamente establecidas
+por nosotros. 
+for (var a = 0 ; a < 10 ; a++) {}
+en el ejemplo el bucle va a contar de 0 a 10. dentro de los corchetes va lo que queremos que haga, busque multiplos, mayores, menores, etc. 
+
+Operadores logicos.
+&&: este operador llamado "y" o "and" evalua ambas condiciones que le pongamos. si las dos son verdaderas retornara verdadero, si una de ellas es falsa retornara falso. ya que ambas condiciones deben cumplirse.
+ejemplo: if ((10 > 5) && (5 > 3)) return true. 
+||: "or" u "o" evalua ambas expresiones y si una de ellas se cumple retornara verdadero. si las dos son falsas retornara falso
+ejemplo: if ((10 + 5 === 15) || (5 * 3 === 15)) return true
+!: "no" o "not" el signo de admiracion cerrado lo utilizamos cuando queremos negar algo. ejemplo: 10 + 10 !== 25
