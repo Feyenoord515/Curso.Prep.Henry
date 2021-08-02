@@ -1,0 +1,9 @@
+Objetos: son contenedores de datos, al igual que el array. solo que los objetos contienen muchos datos sobre una sola cosa. 
+se instancian usando llaves {}.
+Propiedades: son los datos alojados en cada objeto. clave: valor o key: value. donde clave o key son las propiedades.
+Metodos: se llaman asi a las funciones guardadas dentro de los objetos y que aparecen como valor dentro de las propiedades.
+Bucles for...in: es la forma de iterar dentro de los objetos. como los objetos no tienen indice, no podemos usar bucles for.
+primero escribimos lo que queremos buscar dentro de la variable. Ejemplo: for (let clave in usuario). dentro del objeto usuario buscamos
+el "key" clave.
+Notacion de puntos: es facil de escribir y es literal. Acepta valores alfanumericos. Primero el nombre del objeto, punto y el nombre de la propiedad. Ejemplo: usuario.password // juan23
+Notacion de corchetes: para intercalar con variable o recorrer un objeto. A diferencia del "dot" acepta cualquier tipo de valor. Ejemplo: usuario["password"] // juan23
