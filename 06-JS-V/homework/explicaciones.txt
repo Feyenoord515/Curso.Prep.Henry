@@ -1,0 +1,2 @@
+prototype: cuando pedimos a un objeto una propiedad que no tiene, este la busca en su prototipo, en sus "entrañas". es otro objeto que se  utiliza como fuente de propiedades alternativas.
+contructor (de clases): es la forma de dar argumentos a los objetos. como su nombre lo indica, de construir. se crea la clase y se contruye.
