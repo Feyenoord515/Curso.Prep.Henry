@@ -1,0 +1,17 @@
+h1 {
+    color: firebrick;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: forestgreen;
+    padding: 50px;
+    border: 4px outset  firebrick;
+} 
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
