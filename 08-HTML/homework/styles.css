@@ -1,17 +1,55 @@
 h1 {
-    color: firebrick;
+     position: static;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    color: rgb(33, 240, 14);
+
+}
+h3 {
+    position: static;
+    display: flex;
+    justify-content: center;
+    color: gold;
+}
+h4 {
+    position: static;
+    display: flex;
+    justify-content: center;
+    color: greenyellow;
+}
+
+
+a {
+    position: static;
+    display: flex;
+    justify-content: center;
+    color: rgb(238, 241, 14);
 }
 img {
     width: 400px;
 }
 #thirdDiv {
-    height: 600px;
-    width: 500px;
-    background-color: forestgreen;
+    display: flex;
+    justify-content: center;
+    width: auto;
+    height: auto;
+    background-color: rgb(87, 136, 168);
     padding: 50px;
     border: 4px outset  firebrick;
 } 
 #spanId {
+    display: flex;
+    position: static;
+    justify-content: center;
+    align-items: flex-end;
+    color: greenyellow;
     font-size: 18px;
-    margin: 50px;
+    
 }
+body {
+    background-image: url(https://img.freepik.com/vector-gratis/placa-circuito-fondo-procesador-chip-tecnologia-abstracta-codigo-html-vector-fondo-tecnologia-azul-ilustracion-3d_115579-1469.jpg?size=626&ext=jpg&ga=GA1.2.426003149.1628985600) ;
+}
+   
+
+
